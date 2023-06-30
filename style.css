@@ -1,0 +1,76 @@
+#h1one{
+    
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    border-color:aqua;
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+
+}
+#logo{
+    color: green;
+
+}
+a{
+    margin-right: 140px;
+    text-decoration: none;
+}
+#p1{
+    text-align: center;
+
+}
+.button1{
+    color: crimson;
+}
+form{
+    text-align: center;
+
+}
+#h1two{
+    text-align: center;
+    color:green;
+    border-style: dotted;
+}
+#h1three{
+    text-align: center;
+    color: rgb(52, 2, 131);
+    border-style: dashed;
+}
+#h2one{
+    text-align: center;
+    color: yellow;
+    border-style: solid;
+}
+#selectone{
+    text-align: center;
+}
+#divone{
+    text-align: center;
+}
+#divtwo{
+    text-align: center;
+}
+#h1four{
+    text-align: center;
+    border-style: double;
+    color:purple
+}
+#h1five{
+    text-align: center;
+    border-style: groove;
+    color:crimson
+}
+#divfour{
+    color: burlywood;
+}
+footer{
+    color:crimson;
+}
+img{
+    border-image: fill;
+    margin-right: 200px;
+}
